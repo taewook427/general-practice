@@ -1,0 +1,23 @@
+[settings]
+{
+    [order]
+    {
+        [#] {"명령어 종류"}
+        [num] {2}
+
+        [0] {"kcl4relay"}
+        [1] {"kcom4report"}
+    }
+
+    [channel]
+    {
+        [#] {"컴퓨터 간 공유하는 통신채널"}
+        [num] {1}
+
+        [0]
+        {
+            [name] {"homenet"}
+            [path] {"\\DESKTOP-MONITOR\homenet\channel0"}
+        }
+    }
+}

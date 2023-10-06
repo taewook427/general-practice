@@ -1,0 +1,11 @@
+[settings]
+{
+    [size] {3758096384}
+    [#] {"3.5 GB"}
+
+    [local] {"lclsync"}
+    [#] {"로컬 파일 폴더"}
+
+    [server] {"\\DESKTOP-MONITOR\homenet\channel1"}
+    [#] {"업로드 폴더"}
+}
