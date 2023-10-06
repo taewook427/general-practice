@@ -1,0 +1,14 @@
+[settings]
+{
+    [viewtime] {5184000}
+    [last] {0}
+
+    [0m] {"https://gall.dcinside.com/mini/board/lists/?id=soyuz"}
+    [0v] {"https://gall.dcinside.com/mini/board/view/?id=soyuz&no="}
+
+    [1m] {"https://gall.dcinside.com/mini/board/lists?id=mirror"}
+    [1v] {"https://gall.dcinside.com/mini/board/view/?id=mirror&no="}
+
+    [2m] {"https://gall.dcinside.com/mgallery/board/lists/?id=acd"}
+    [2v] {"https://gall.dcinside.com/mgallery/board/view/?id=acd&no="}
+}

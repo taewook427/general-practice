@@ -1,0 +1,5 @@
+[header]
+{
+    [url] {"https://gall.dcinside.com/mini/board/lists?id=soyuz"}
+    [num] {297}
+}

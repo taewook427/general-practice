@@ -1,0 +1,5 @@
+[header]
+{
+    [url] {"https://gall.dcinside.com/mgallery/board/lists/?id=acd"}
+    [num] {25}
+}

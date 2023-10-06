@@ -1,0 +1,5 @@
+[header]
+{
+    [url] {"https://gall.dcinside.com/mini/board/lists?id=mirror"}
+    [num] {4527}
+}

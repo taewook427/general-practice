@@ -1,0 +1,55 @@
+[settings]
+{
+    [core] {8}
+    [#] {"사용하는 프로세스 수"}
+
+    [chunk] {20971520}
+    [#] {"청크 크기"}
+
+    [limit] {120586240}
+    [#] {"사이트 용량 제한"}
+
+    [p0] {"p0.png"}
+    [#] {"가이드 사진 경로"}
+
+    [profile]
+    {
+        [0]
+        {
+            [title] {"기본"}
+            [pw] {"theworld"}
+            [kf] {"기본키파일"}
+        }
+
+        [1]
+        {
+            [title] {"배포"}
+            [pw] {"0000"}
+            [kf] {"기본키파일"}
+        }
+    }
+    [#] {"게시 프로필"}
+
+    [site0m] {"https://gall.dcinside.com/mini/board/lists?id=soyuz"}
+    [site0w] {"https://gall.dcinside.com/mini/board/write/?id=soyuz"}
+    [site0u] {"DCL3"}
+    [site0p] {"intel"}
+    [site0n] {"https://gall.dcinside.com/mini/board/view/?id=soyuz&no="}
+    [#] {"main storage"}
+
+    [site1m] {"https://gall.dcinside.com/mini/board/lists?id=mirror"}
+    [site1w] {"https://gall.dcinside.com/mini/board/write/?id=mirror"}
+    [site1u] {"DCL3"}
+    [site1p] {"samsung"}
+    [site1n] {"https://gall.dcinside.com/mini/board/view/?id=mirror&no="}
+    [#] {"sub storage"}
+
+    [site2m] {"https://gall.dcinside.com/mgallery/board/lists?id=dshighschool"}
+    [site2w] {"https://gall.dcinside.com/mgallery/board/write/?id=dshighschool"}
+    [site2u] {"DCL3"}
+    [site2p] {"nvidia"}
+    [site2n] {"https://gall.dcinside.com/mgallery/board/view/?id=dshighschool&no="}
+    [#] {"bck storage"}
+
+    [#] {"비밀번호 유출에 주의하십시오"}
+}

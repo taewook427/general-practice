@@ -1,0 +1,26 @@
+[settings]
+{
+    [#] {"KVault 4 공통 설정 파일"}
+
+    [layer0]
+    {
+        [maxwait] {1}
+        [#] {"최대 응답 대기 시간 (초)"}
+    }
+
+    [layer1]
+    {
+        [const] {0}
+    }
+
+    [layer2]
+    {
+        [atominfo] {0}
+        [structinfo] {0}
+        [actualsize] {0}
+        [#] {"0 : T, 1 : F"}
+
+        [export] {""}
+        [#] {"비어있으면 자동, 아니면 수동 지정"}
+    }
+}
