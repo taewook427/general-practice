@@ -16,4 +16,6 @@
 
 - java practice
 
+- dart practice
+
 마지막 업데이트 : 2023.10.07
